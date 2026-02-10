@@ -12,14 +12,8 @@
 - 👯 I’m looking to collaborate on **MERN Stack and AI-based Web Applications**
 
 - 🤝 I’m looking for help with **Advanced Backend Architecture and Scalable Systems**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Rahul-22-2004](https://github.com/Rahul-22-2004)
-
-- 💬 Ask me about **React.js, Node.js, MongoDB, Full Stack Development, and AI integrations**
-
-- 📫 How to reach me **rahuldgowda2204@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1N528ST9GaKtfaHWrMhWTeyKxW17cpDZb/view?usp=sharing](https://drive.google.com/file/d/1N528ST9GaKtfaHWrMhWTeyKxW17cpDZb/view?usp=sharing)
+- 
+- 📫 How to reach me **rahuldgowda2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **MERN Stack and AI-based Web Applications**
 
 - 🤝 I’m looking for help with **Advanced Backend Architecture and Scalable Systems**
-- 
+  
 - 📫 How to reach me **rahuldgowda2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

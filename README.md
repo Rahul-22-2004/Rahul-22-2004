@@ -77,13 +77,12 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rahul-22-2004&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rahul-22-2004&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-22-2004&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
 
 ---
 

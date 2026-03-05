@@ -22,6 +22,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=Rahul-22-2004&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 <a href="https://www.linkedin.com/in/rahul-d-gowda-258748283/">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>

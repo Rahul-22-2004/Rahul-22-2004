@@ -1,6 +1,4 @@
 <!-- ===== HEADER ===== -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Rahul%20D%20Gowda&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" /> -->
-
 <h1 align="center">👋 Hi, I'm Rahul</h1>
 <h3 align="center">Full Stack Developer (MERN) | AI & ML Enthusiast</h3>
 

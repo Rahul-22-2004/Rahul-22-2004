@@ -1,6 +1,6 @@
 <!-- ===== HEADER ===== -->
 <h1 align="center">👋 Hi, I'm Rahul</h1>
-<h3 align="center">Full Stack Developer (MERN) | AI & ML Enthusiast</h3>
+<h3 align="center">  Aspiring Software Engineer | Full-Stack Engineer | AI/ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=18&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Developing+Secure+RESTful+APIs;Exploring+AI+Integration;Writing+Clean+and+Maintainable+Code" />
